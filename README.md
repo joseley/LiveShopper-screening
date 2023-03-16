@@ -1,2 +1,0 @@
-# LiveShopper-screening
-OOP screening
